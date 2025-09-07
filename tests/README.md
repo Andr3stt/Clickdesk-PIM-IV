@@ -1,3 +1,3 @@
-# Testes
+# Placeholder
 
-Testes unitários, integração e aceitação.
+Esta pasta faz parte da estrutura do repositório ClickDesk-PIM-IV.

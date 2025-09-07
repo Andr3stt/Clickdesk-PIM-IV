@@ -1,3 +1,3 @@
-# Desktop
+# Placeholder
 
-Aplicação Desktop (C# - WinForms/WPF).
+Esta pasta faz parte da estrutura do repositório ClickDesk-PIM-IV.

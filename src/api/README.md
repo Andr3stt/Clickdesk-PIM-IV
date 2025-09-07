@@ -1,3 +1,3 @@
-# API
+# Placeholder
 
-API opcional para integração.
+Esta pasta faz parte da estrutura do repositório ClickDesk-PIM-IV.

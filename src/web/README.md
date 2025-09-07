@@ -1,3 +1,3 @@
-# Web
+# Placeholder
 
-Aplicação Web (ASP.NET/Blazor).
+Esta pasta faz parte da estrutura do repositório ClickDesk-PIM-IV.

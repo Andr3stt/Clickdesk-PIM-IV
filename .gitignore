@@ -1,0 +1,28 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Tt]emp/
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+
+# Visual Studio Code
+.vscode/
+
+# Others
+*.DS_Store
+*.sqlite
+*.mdf
+*.ldf
+*.db
+*.log
